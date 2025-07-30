@@ -1,1 +1,1 @@
-Basic Calculator file. Made WIth php backend. And HTML CSS an JavaScript
+Basic Calculator file. Made WIth PHP as backend. And HTML CSS an JavaScript
